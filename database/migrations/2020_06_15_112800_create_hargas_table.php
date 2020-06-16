@@ -17,7 +17,6 @@ class CreateHargasTable extends Migration
             $table->id();
             $table->string('harga_normal');
             $table->string('harga_discount');
-            $table->timestamps();
         });
     }
 
@@ -28,6 +27,6 @@ class CreateHargasTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('hargas');
+        Schema::dropIfExists('harga');
     }
 }
