@@ -10,6 +10,6 @@
     <script src="{{ mix('js/app.js') }}" type="text/javascript" defer></script>
 </head>
 <body>
-    <section id="app"></section>
+    <section id="app" style="overflow-x: hidden;"></section>
 </body>
 </html>
