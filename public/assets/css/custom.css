@@ -1,45 +1,45 @@
 html {
-  font-size: 10px;
+    font-size: 10px;
 }
 
-#app {
-  overflow-x: hidden;
+#appp {
+    overflow-x: hidden;
 }
 
 .mt-custom {
-  margin-top: 5em;
+    margin-top: 5em;
 }
 
 .mt-custom-paket {
-  margin-top: 7em;
+    margin-top: 7em;
 }
 
 .mt-custom-tengah {
-  margin-top: 2.5em;
+    margin-top: 2.5em;
 }
 
 .mx-custom {
-  margin: 5em;
+    margin: 5em;
 }
 
 .mb-custom {
-  margin-bottom: 5em;
+    margin-bottom: 5em;
 }
 
 .border-bottom-1 {
-  border-bottom: 0.1rem solid #f2f2f2;
+    border-bottom: 0.1rem solid #f2f2f2;
 }
 
 /* FONT FACE */
 
 @font-face {
-  font-family: "montserrat";
-  src: url("../fonts/montserrat/Montserrat-Bold.otf");
+    font-family: "montserrat";
+    src: url("../fonts/montserrat/Montserrat-Bold.otf");
 }
 
 @font-face {
-  font-family: "montserrat-light";
-  src: url("../fonts/montserrat/Montserrat-Light.otf");
+    font-family: "montserrat-light";
+    src: url("../fonts/montserrat/Montserrat-Light.otf");
 }
 
 /* END FONT FACE */
@@ -47,70 +47,70 @@ html {
 /* NAV SECTION */
 
 .logo-niaga {
-  width: 20em;
-  height: 10em;
-  margin-left: -0.7em;
+    width: 20em;
+    height: 10em;
+    margin-left: -0.7em;
 }
 
 .nav-link {
-  color: #717171;
-  font-size: 1.5rem;
+    color: #717171;
+    font-size: 1.5rem;
 }
 
 .disc-logo {
-  width: 3.5em;
-  margin-top: -0.5em;
+    width: 3.5em;
+    margin-top: -0.5em;
 }
 
 .navbar {
-  margin: -2.5em 0;
+    margin: -2.5em 0;
 }
 
 .nav-item:nth-last-child(1) .nav-link {
-  padding-right: 0;
+    padding-right: 0;
 }
 
 .navbar-toggler-icon {
-  background-image: none;
+    background-image: none;
 }
 
 .nav__top {
-  height: 3.5em;
-  display: flex;
+    height: 3.5em;
+    display: flex;
 }
 
 .nav__top .icon-disc {
-  position: relative;
-  top: -0.5em;
-  left: -1.2em;
-  transform: rotate(-90deg);
-  font-size: 1.4rem;
-  color: #fff;
+    position: relative;
+    top: -0.5em;
+    left: -1.2em;
+    transform: rotate(-90deg);
+    font-size: 1.4rem;
+    color: #fff;
 }
 
 .nav__top--kiri {
-  flex-grow: 2;
-  display: flex;
+    flex-grow: 2;
+    display: flex;
 }
 
 .nav__top--kiri p {
-  margin-top: 0.5em;
+    margin-top: 0.5em;
 }
 
 .nav__top--kanan {
-  flex-grow: 1;
-  display: flex;
+    flex-grow: 1;
+    display: flex;
 }
 
 .nav__top--kanan p {
-  margin: 0.5em 0 0 1em;
-  font-size: 1.2rem;
+    margin: 0.5em 0 0 1em;
+    font-size: 1.2rem;
 }
 
 .nav__top--kanan i {
-  margin-left: 1em;
-  margin-top: 0.2em;
-  font-size: 1.5rem;
+    margin-left: 1em;
+    margin-top: 0.2em;
+    font-size: 1.5rem;
 }
 
 /* END NAV SECTION */
@@ -120,38 +120,38 @@ html {
 .text-header,
 .text-header-desc,
 .text-paket-hosting {
-  color: #5b5b5b;
-  font-size: 3rem;
+    color: #5b5b5b;
+    font-size: 3rem;
 }
 .text-header {
-  font-family: "montserrat";
+    font-family: "montserrat";
 }
 
 .text-header-desc {
-  font-family: "montserrat-light";
+    font-family: "montserrat-light";
 }
 
 .bungkus-fitur-header {
-  margin-bottom: 1.3em;
+    margin-bottom: 1.3em;
 }
 
 .bungkus-fitur-header:nth-child(1) {
-  margin-top: 3em;
+    margin-top: 3em;
 }
 
 .text-fitur-header {
-  font-family: "montserrat-light";
-  font-size: 1.5rem;
-  color: #5b5b5b;
-  margin-bottom: 0;
+    font-family: "montserrat-light";
+    font-size: 1.5rem;
+    color: #5b5b5b;
+    margin-bottom: 0;
 }
 
 .bunder-check {
-  padding: 0.2em;
-  background-color: #00b348;
-  font-size: 1.5rem;
-  color: #fff;
-  border-radius: 50%;
+    padding: 0.2em;
+    background-color: #00b348;
+    font-size: 1.5rem;
+    color: #fff;
+    border-radius: 50%;
 }
 
 /* END HEADER SECTION */
@@ -159,34 +159,34 @@ html {
 /* FITUR BRAND SECTION */
 
 .fitur-brand {
-  margin: 2em 0;
-  font-family: "montserrat-light";
-  color: #5b5b5b;
-  align-self: flex-end;
+    margin: 2em 0;
+    font-family: "montserrat-light";
+    color: #5b5b5b;
+    align-self: flex-end;
 }
 
 .fitur-brand .img-zenguard,
 .fitur-brand .img-composer,
 .fitur-brand .img-ioncube {
-  margin: auto;
-  display: block;
+    margin: auto;
+    display: block;
 }
 
 .fitur-brand .img-zenguard,
 .fitur-brand .img-ioncube {
-  width: 20em;
-  height: 5em;
-  top: -3em;
-  position: relative;
+    width: 20em;
+    height: 5em;
+    top: -3em;
+    position: relative;
 }
 
 .fitur-brand .img-composer {
-  width: 13em;
-  height: 17em;
+    width: 13em;
+    height: 17em;
 }
 
 .text-fitur-brand-item {
-  font-size: 1.5rem;
+    font-size: 1.5rem;
 }
 
 /* END FITUR BRAND SECTION */
@@ -194,92 +194,92 @@ html {
 /* PAKET HOSTING SECTION */
 
 .warna-text-custom-paket {
-  color: #5b5b5b;
+    color: #5b5b5b;
 }
 
 .text-paket-hosting {
-  font-family: "montserrat";
+    font-family: "montserrat";
 }
 
 .text-paket-hosting-summary {
-  font-size: 2.4rem;
-  font-family: "montserrat-light";
+    font-size: 2.4rem;
+    font-family: "montserrat-light";
 }
 
 .card,
 .list-group-item {
-  border: 0.1rem solid #f2f2f2;
+    border: 0.1rem solid #f2f2f2;
 }
 
 .card-atas {
-  font-size: 1.2rem;
+    font-size: 1.2rem;
 }
 
 .card-title-paket {
-  font-size: 2.4rem;
-  font-family: "montserrat";
+    font-size: 2.4rem;
+    font-family: "montserrat";
 }
 
 .text-besar-dua {
-  font-family: "montserrat";
-  font-size: 4rem;
+    font-family: "montserrat";
+    font-size: 4rem;
 }
 
 #bg-biru {
-  background-color: #008fee;
-  color: #fff;
-  border: 1px solid #008fee !important;
+    background-color: #008fee;
+    color: #fff;
+    border: 1px solid #008fee !important;
 }
 
 #bg-dark {
-  background-color: #007fde !important;
-  color: #fff;
+    background-color: #007fde !important;
+    color: #fff;
 }
 
 .bg-star {
-  color: #0d95ef;
-  font-size: 1.3rem;
+    color: #0d95ef;
+    font-size: 1.3rem;
 }
 
 .img-pita {
-  width: 150px;
-  position: absolute;
-  z-index: 2;
-  left: -0.8em;
-  top: -0.9em;
+    width: 150px;
+    position: absolute;
+    z-index: 2;
+    left: -0.8em;
+    top: -0.9em;
 }
 
 /* BUTTON STYLE */
 
 .btn-standard {
-  border: 2px solid #4c4c4c;
-  background: transparent;
-  color: #4c4c4c;
-  padding: 0.6em 2em;
-  border-radius: 5em;
-  font-weight: bold;
-  font-size: 1.4rem;
-  margin: 1.5em 0 2em 0;
+    border: 2px solid #4c4c4c;
+    background: transparent;
+    color: #4c4c4c;
+    padding: 0.6em 2em;
+    border-radius: 5em;
+    font-weight: bold;
+    font-size: 1.4rem;
+    margin: 1.5em 0 2em 0;
 }
 
 .btn-standard:after:nth-last-child(1) {
-  content: "Diskon 40%";
+    content: "Diskon 40%";
 }
 
 .btn-standard:active {
-  outline: none;
+    outline: none;
 }
 
 #btn-hubungi {
-  border: 2px solid #fff;
-  color: #fff;
-  margin-top: 3.6em;
-  justify-content: flex-end !important;
-  margin-left: 16em;
+    border: 2px solid #fff;
+    color: #fff;
+    margin-top: 3.6em;
+    justify-content: flex-end !important;
+    margin-left: 16em;
 }
 
 #btn-module {
-  margin: 5em auto;
+    margin: 5em auto;
 }
 
 /* END BUTTON STYLE */
@@ -289,16 +289,16 @@ html {
 /* FITUR PHP SECTION */
 
 #text-fitur-php {
-  font-size: 1.3rem;
+    font-size: 1.3rem;
 }
 
 .active-light {
-  background-color: #f7f7f7 !important;
+    background-color: #f7f7f7 !important;
 }
 
 .img-fitur-dua {
-  width: 90px;
-  height: 110px;
+    width: 90px;
+    height: 110px;
 }
 
 /* END FITUR PHP SECTION */
@@ -306,9 +306,9 @@ html {
 /* SOSMED SECTION */
 
 .sosmed-section {
-  width: 100%;
-  height: 60px;
-  background-color: #f7f7f7;
+    width: 100%;
+    height: 60px;
+    background-color: #f7f7f7;
 }
 
 /* END SOSMED SECTION*/
@@ -316,9 +316,9 @@ html {
 /* BANTUAN SECTION */
 
 .bantuan-section {
-  width: 100%;
-  padding: 2em 0;
-  background-color: #00a2f3;
+    width: 100%;
+    padding: 2em 0;
+    background-color: #00a2f3;
 }
 
 /* END BANTUAN SECTION */
@@ -326,55 +326,55 @@ html {
 /* FOOTER SECTION */
 
 .footer-section {
-  widows: 100%;
-  background-color: #303030;
-  padding: 6em 0 1.5em 0;
+    widows: 100%;
+    background-color: #303030;
+    padding: 6em 0 1.5em 0;
 }
 
 .judul-footer {
-  text-transform: uppercase;
-  color: #878787;
-  font-size: 1.3rem;
+    text-transform: uppercase;
+    color: #878787;
+    font-size: 1.3rem;
 }
 
 .text-footer {
-  color: #d0d0d0;
-  font-size: 1.2rem;
-  margin-bottom: 0.3em;
+    color: #d0d0d0;
+    font-size: 1.2rem;
+    margin-bottom: 0.3em;
 }
 
 .input-email {
-  width: 22em;
-  height: 4em;
-  border: none;
-  border-radius: 10em;
-  padding-left: 1.5em;
-  outline: none;
+    width: 22em;
+    height: 4em;
+    border: none;
+    border-radius: 10em;
+    padding-left: 1.5em;
+    outline: none;
 }
 
 .btn-email {
-  position: absolute;
-  height: 3.6em;
-  top: 3.1em;
-  right: 5.3em;
-  border: none;
-  background-color: #00a2f3;
-  border-radius: 10em;
-  padding: 0 1em;
-  color: #fff;
+    position: absolute;
+    height: 3.6em;
+    top: 3.1em;
+    right: 5.3em;
+    border: none;
+    background-color: #00a2f3;
+    border-radius: 10em;
+    padding: 0 1em;
+    color: #fff;
 }
 
 .bunder-footer {
-  font-size: 1.7rem;
-  padding: 0.5em;
-  border-radius: 50%;
-  color: #fff;
-  border: 2px solid #fff;
-  margin-right: 2em;
+    font-size: 1.7rem;
+    padding: 0.5em;
+    border-radius: 50%;
+    color: #fff;
+    border: 2px solid #fff;
+    margin-right: 2em;
 }
 
 .copyright {
-  border-top: 1px solid #2c2c2c;
+    border-top: 1px solid #2c2c2c;
 }
 
 /* END FOOTER SECTION */
@@ -382,89 +382,93 @@ html {
 /* MEDIA QUERY */
 
 @media screen and (min-width: 992px) {
-  .navbar-expand-lg .navbar-nav .nav-link {
-    padding: 0 1rem;
-  }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 0 1rem;
+    }
 }
 
 @media screen and (max-width: 480px) {
-  html {
-    font-size: 8px;
-  }
-  .nav__top--kiri p,
-  .nav__top--kanan p,
-  #gambar-header,
-  #module-hidden,
-  #img-laravel,
-  #hosting-image-hidden {
-    display: none;
-  }
+    html {
+        font-size: 8px;
+    }
+    .nav__top--kiri p,
+    .nav__top--kanan p,
+    #gambar-header,
+    #module-hidden,
+    #img-laravel,
+    #hosting-image-hidden {
+        display: none;
+    }
 
-  .nav__top--kanan i {
-    margin-top: 0.4em;
-  }
+    .nav__top--kanan i {
+        margin-top: 0.4em;
+    }
 
-  #fitur-header {
-    padding-left: 2em;
-  }
+    #fitur-header {
+        padding-left: 2em;
+    }
 
-  .text-header-desc {
-    font-size: 2.2rem;
-  }
+    .text-fitur-header {
+        margin-left: 1em;
+    }
 
-  .logo-niaga {
-    margin-left: 0em;
-  }
+    .text-header-desc {
+        font-size: 2.2rem;
+    }
 
-  .text-paket-hosting {
-    font-size: 2.8rem;
-  }
+    .logo-niaga {
+        margin-left: 0em;
+    }
 
-  #module-mobile {
-    text-align: center;
-    margin: 0 !important;
-  }
+    .text-paket-hosting {
+        font-size: 2.8rem;
+    }
 
-  .text-paket-hosting-summary {
-    font-size: 1.7rem;
-  }
+    #module-mobile {
+        text-align: center;
+        margin: 0 !important;
+    }
 
-  #text-hub {
-    text-align: center;
-    font-size: 1.7rem !important;
-    line-height: normal !important;
-    display: static;
-    margin-top: 1.5em;
-  }
+    .text-paket-hosting-summary {
+        font-size: 1.7rem;
+    }
 
-  #btn-hubungi {
-    justify-content: center !important;
-    margin-top: 2em !important;
-  }
+    #text-hub {
+        text-align: center;
+        font-size: 1.7rem !important;
+        line-height: normal !important;
+        display: static;
+        margin-top: 1.5em;
+    }
 
-  #hidden-mt {
-    margin-top: 1em !important;
-  }
+    #btn-hubungi {
+        justify-content: center !important;
+        margin-top: 2em !important;
+    }
 
-  .btn-email {
-    right: 23.3em;
-  }
+    #hidden-mt {
+        margin-top: 1em !important;
+    }
 
-  #img-pembayaran {
-    width: 100% !important;
-  }
+    .btn-email {
+        right: 23.3em;
+    }
 
-  #icon-foot {
-    padding: 2em !important;
-  }
+    #img-pembayaran {
+        width: 100% !important;
+    }
 
-  .bunder-footer {
-    margin-right: 1em;
-  }
+    #icon-foot {
+        padding: 2em !important;
+    }
 
-  .bantuan-section {
-    padding: 3em 0;
-  }
+    .bunder-footer {
+        margin-right: 1em;
+    }
+
+    .bantuan-section {
+        padding: 3em 0;
+    }
 }
 
 /* END MEDIA QUERY */

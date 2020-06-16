@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div id="appp">
         <Navbar />
         <HeaderHome />
         <FiturBrand />
