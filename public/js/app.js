@@ -1991,7 +1991,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Button_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Button.vue */ "./resources/js/components/Button.vue");
+/* harmony import */ var _Button_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Button.vue */ "./resources/js/components/Button.vue");
 //
 //
 //
@@ -2136,7 +2136,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "CardPaket",
   components: {
-    Button: _Button_vue__WEBPACK_IMPORTED_MODULE_1__["default"]
+    Button: _Button_vue__WEBPACK_IMPORTED_MODULE_0__["default"]
   },
   props: {
     title: String,
